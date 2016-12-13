@@ -1,4 +1,4 @@
-CmsEasy< 5.6_2016-10-12 前台无限制GetShell
+CmsEasy< 5.6_2016-10-12 前台代码执行漏洞
 ---
 
 ### 漏洞信息
@@ -43,7 +43,7 @@ CmsEasy是一款基于PHP+Mysql 架构的网站内容管理系统，也是一个
 类型 | 用户名 | 密码
 :-:|:-:|:-:
 Mysql | root | root
-/administrator/ | admin | admin888
+/admin/ | admin | admin888
 
 ### 获取环境:
 
